@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
+  puts "I LOVE YOU TOO PUMPKIN!"
   puts "HUH?! SPEAK UP, SONNY!"
   puts "NO, NOT SINCE 1938!"
-  puts "I LOVE YOU TOO PUMPKIN!"
 end
